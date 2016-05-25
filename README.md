@@ -8,7 +8,7 @@ Add
 exclude: [docker-compose.yml]
 ```
 
-to your _config.yml file to avoid exposing docker config in the website
+to your `_config.yml` file to avoid exposing docker config in the website
 
 Build your project
 
@@ -22,4 +22,4 @@ Build the container
 docker-compose up
 ```
 
-And see the result at http://localhost:8080
+And see the result at [http://localhost:8080](http://localhost:8080 "Local docker container")
